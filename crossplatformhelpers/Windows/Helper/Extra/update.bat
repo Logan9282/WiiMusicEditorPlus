@@ -1,6 +1,6 @@
 @echo off
 
 timeout 1
-tar --verbose -xf "%~dp0downloaded.zip" -C "%~p1\.."
-del "%~dp0downloaded.zip"
+del %1
+move "%~dp0WiiMusicEditorPlus.exe" %1
 start "" %1
