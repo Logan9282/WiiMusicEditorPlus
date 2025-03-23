@@ -187,13 +187,13 @@ def RetranslateSongNames():
 	StyleClass(StyleTypeValue.SongSpecific,_translate("Editor",'Woman'),0x659A998,'17',[28,27,13,15,40,49]),
 	StyleClass(StyleTypeValue.SongSpecific,_translate("Editor",'Yankee Doodle'),0x659A80C,'0C',[33,24,18,16,49,46]),
 	StyleClass(StyleTypeValue.QuickJam,_translate("Editor",'A Capella'),0x659AC20,'29',[38,38,39,39,66,50]),
-	StyleClass(StyleTypeValue.QuickJam,_translate("Editor",'Acoustic'),0x659AB90,'38',[25,25,13,13,52,50]), #
+	StyleClass(StyleTypeValue.QuickJam,_translate("Editor",'Acoustic'),0x659AB90,'38',[38,18,13,13,45,46]), #
 	StyleClass(StyleTypeValue.QuickJam,_translate("Editor",'African Electronic'),0x659AB93,'3C',[25,25,13,13,52,50]), #
 	StyleClass(StyleTypeValue.QuickJam,_translate("Editor",'Animals!'),0x659AC68,'2B',[11,11,10,31,59,49]),
 	StyleClass(StyleTypeValue.QuickJam,_translate("Editor",'Calypso'),0x659AC44,'2A',[3,3,3,3,noneInstrument,noneInstrument]),
 	StyleClass(StyleTypeValue.QuickJam,_translate("Editor",'Exotic'),0x659ABFC,'28',[19,19,4,19,55,noneInstrument]),
 	StyleClass(StyleTypeValue.QuickJam,_translate("Editor",'Flamenco'),0x659AB90,'25',[25,25,13,13,52,50]), #
-	StyleClass(StyleTypeValue.QuickJam,_translate("Editor",'Galactic'),0x659ADD0,'35',[25,25,13,13,52,50]), #
+	StyleClass(StyleTypeValue.QuickJam,_translate("Editor",'Galactic'),0x659ADD0,'35',[36,22,8,23,60,61]), #
 	StyleClass(StyleTypeValue.QuickJam,_translate("Editor",'Handbell'),0x659AB93,'43',[25,25,13,13,52,50]), #
 	StyleClass(StyleTypeValue.QuickJam,_translate("Editor",'Karate'),0x659ABB4,'26',[14,14,14,15,41,63]),
 	StyleClass(StyleTypeValue.QuickJam,_translate("Editor",'Orchestral'),0x659AD64,'32',[29,27,25,7,58,noneInstrument]),
